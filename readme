@@ -1,0 +1,30 @@
+Components i used to in creating the application    
+Components
+ScrollView
+The ScrollView component is used to create a scrollable container for the app's content.
+It allows users to scroll through the content vertically or horizontally, depending on the layout requirements.
+Text
+The Text component is used to display text content in the app
+It supports various text styles, such as font family, size, weight, and color.
+View
+The View component is a fundamental building block for creating layouts and containers in React Native.
+It acts as a container for other components and can be styled with various properties like background color, padding, and margin.
+TextInput
+The TextInput component is used to create input fields where users can enter text.
+It supports various properties like placeholder text, keyboard type, and input validation.
+Image
+The Image component is used to display images in the app.
+It can load images from local files or remote URLs.
+TouchableOpacity
+The TouchableOpacity component is used to create tappable elements in the app.
+It provides visual feedback when the user interacts with the component, making it suitable for buttons or other interactive elements.
+StatusBar
+The StatusBar component is used to manage the appearance and behavior of the device's status bar.
+It allows you to control properties like background color, text color, and visibility.
+
+
+SCREENSHOT OF THE APP
+![alt text](images/image1.PNG)
+![alt text](images/image2.PNG)
+![alt text](images/image3.PNG)
+
